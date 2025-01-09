@@ -6,5 +6,6 @@
 - To find the current Ir = $Change in charge(dQ) / Change in time (dt)$
 - Let us take a thin sheet and find the sheet charge (Qs) and Q be the total charge of the material.
 
-![diagram](docs/find current.jpeg)
-  
+  <img src="docs/find current.jpeg" alt="Diagram" width="600" height="400">
+
+- **Derivation and Solved Examples**: [PS-day1-practice-problem](https://www.dropbox.com/scl/fi/jhqj8oanr93w0m2jkz6eg/ps-day1.pdf?rlkey=d1xeii7ylk9lqniychiv05e0w&st=v9hvvlqp&dl=0)
