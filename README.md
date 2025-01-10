@@ -17,4 +17,18 @@
 
    <img src="docs/find capacitance.jpeg" alt="Diagram" width="400" height="300">
 
+## Capacitors
+
+| Types  | Cap. Range | Max. Voltage Range | Accuracy | Temp. Stability | Leakage | Comments |
+| - | - | - | - | - | - | - |
+| Ceramic | 1pf - 1uf | 50-30kv | Poor | Poor | Moderate | Small,Cheap,Most Popular |
+| Mica | 1pf - 1uf | 50v-1kv | Poor | Poor | Small | Small,Cheap,Most Popular |
+| Mylar  | 1pf - 1uf | 100v-60kv | Poor | Poor | Small | Small,Cheap,Most Popular |
+| Teflon  | 1pf - 1uf | 50-30kv | Poor | Poor | Moderate | Small,Cheap,Most Popular |
+| Glass  | 1pf - 1uf | 50-500v | Poor | Poor | Small | Small,Cheap,Most Popular |
+| Porcelin  | 1pf - 1uf | 2-100kv | Poor | Poor | Moderate | Small,Cheap,Most Popular |
+| Tantalum  | 1pf - 1uf | 101-500v | Poor | Poor | Moderate | Small,Cheap,Most Popular |
+| Electrolytic  | 1pf - 1uf | 4-630v | Poor | Poor | High | Small,Cheap,Most Popular |
+| Vaccum  | 1pf - 1uf | 4.5v-60kv | Poor | Poor | Small | Small,Cheap,Most Popular |
+
 - **Derivation and Solved Examples**: [PS-day2-practice-problem](https://www.dropbox.com/scl/fi/6uyll0l15llozb4sgpkxv/ps-day2.pdf?rlkey=k1su1o4w2au8t0aoc74dl2kbn&st=l0ibl6e0&dl=0)
