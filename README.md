@@ -13,6 +13,8 @@
 # practice school day 2
 ## Finding the capacitance between two parallel plate
 
--consider two parallel metal plates of area 'A' separated by distance 'd' as shown in fig.
+- consider two parallel metal plates of area 'A' separated by distance 'd' as shown in fig.
+
+   <img src="docs/find capacitance.jpeg" alt="Diagram" width="400" height="300">
 
 - **Derivation and Solved Examples**: [PS-day2-practice-problem](https://www.dropbox.com/scl/fi/6uyll0l15llozb4sgpkxv/ps-day2.pdf?rlkey=k1su1o4w2au8t0aoc74dl2kbn&st=l0ibl6e0&dl=0)
