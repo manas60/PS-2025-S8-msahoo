@@ -1,4 +1,4 @@
-# practice school day 1
+# practice school
 ## Finding the current inside a material
 
  
@@ -7,10 +7,11 @@
 - Let us take a thin sheet and find the sheet charge (Qs) and Q be the total charge of the material.
 
   <img src="docs/find current.jpeg" alt="Diagram" width="600" height="400">
-
-- **Derivation and Solved Examples**: [PS-day1-practice-problem](https://www.dropbox.com/scl/fi/jhqj8oanr93w0m2jkz6eg/ps-day1.pdf?rlkey=d1xeii7ylk9lqniychiv05e0w&st=v9hvvlqp&dl=0)
-
-# practice school day 2
+  
+ - The current can be written as the total charge in the incremental volume in time &#9651;t:                                                                
+  $I_R$ = $&#9651;q \over &#9651;t$ = $Q_s&#9651;x \over &#9651;t$ = $Q_sV_d$  
+$Q_s$ = sheet charge , $V_d$ = average velocity
+where, $Q_s$ = nwh is the sheet charge or the charge per unit length
 ## Finding the capacitance between two parallel plate
 
 - consider two parallel metal plates of area 'A' separated by distance 'd' as shown in fig.
