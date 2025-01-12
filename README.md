@@ -9,9 +9,11 @@
   <img src="docs/find current.jpeg" alt="Diagram" width="600" height="400">
   
  - The current can be written as the total charge in the incremental volume in time &#9651;t:                                                                
-  $I_R$ = $&#9651;q \over &#9651;t$ = $Q_s&#9651;x \over &#9651;t$ = $Q_sV_d$  
-$Q_s$ = sheet charge , $V_d$ = average velocity
-where, $Q_s$ = nwh is the sheet charge or the charge per unit length
+   - $I_R$ = $&#9651;q \over &#9651;t$ = $Q_s&#9651;x \over &#9651;t$ = $Q_sV_d$ ,  [ $Q_s$ = nwh is the sheet charge or the charge per unit length,  $V_d$ is the average velocity of the electrons]
+   - $V_d$ = $&#9651;x \over &#9651;t$ = &#956;E , [ E = $&#9651;v \over &#9651;x$ , and &#956; is the mobility of the material.]
+   - $I_R$ = &#956; $Q_s$ $&#9651;v \over &#9651;x$
+  - The incremental resistance can be expressed as:
+    - &#9651;R = $&#9651;v \over I_R$ = $\rho$ $&#9651;x \over Wh$
 ## Finding the capacitance between two parallel plate
 
 - consider two parallel metal plates of area 'A' separated by distance 'd' as shown in fig.
