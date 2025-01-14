@@ -16,6 +16,10 @@
     - &#9651;R = $&#9651;v \over I_R$ = $\rho$ $&#9651;x \over Wh$
 ## Finding the capacitance between two parallel plate
 
+<p align="center">
+   <img src="docs/find capacitance.jpeg" alt="Description" width="600" height="400"/>
+</p>
+
 Lets consider 2 parallel plates connected with a battery of "V" volts.After sometimes of battery connection let the plate connected with the cathode of battery has total charge +Q on its surface and 
 the plate connected with the anode of battery has total charge -Q on its surface .\
 Gradually as the charge increases on the plate potential also increases.Let the potential on the plates are V1 and V2 respectively .\
@@ -25,19 +29,19 @@ $$ Q \propto V $$
  
 Here the proportionality constant is the capacitance of the parallel plates : 
 
-$$ Q = CV .......................(1)$$  
+$$ Q = CV
  
 We will apply Gauss's theorem to calculate the capacitance of the parallel plates .\
 Gauss Theorem can mathemticallly expressed as
 
-$$\Phi_E = \oint\limits_S\overrightarrow{E} . \overrightarrow{dS} = \frac{Q _{in}}{\epsilon_o} .........................................(2)$$
+$$\Phi_E = \oint\limits_S\overrightarrow{E} . \overrightarrow{dS} = \frac{Q _{in}}{\epsilon_o}
 Q can be expressed as :
 
-$$ Q=\overrightarrow{E}.A.\epsilon_o ...................(3) $$
+$$ Q=\overrightarrow{E}.A.\epsilon_o
 
 Assuming a large area and small separation "d" between plates , Electric feild between plates can be expressed mathematically 
 
-$$ \overrightarrow{E} = \frac{V}{d}...........................(4)$$
+$$ \overrightarrow{E} = \frac{V}{d}
 
 From the equation 1 Capacitance C can be expressed as  : 
 
@@ -45,21 +49,8 @@ $$C= \frac{Q}{V} $$
 
 Therefore putting the values of Q and V from equation 3 and 4 the capacitance of the parallel plates can be expressed as:
 
- $$ C=\frac{\epsilon_0 \cdot AE}{Ed} = \frac{\epsilon_0 \cdot A}{d} ............................(5)$$
+ $$ C=\frac{\epsilon_0 \cdot AE}{Ed} = \frac{\epsilon_0 \cdot A}{d}
 
-* Calculate  C1  and C2 of the image
- <p align="center">
-   <img src="docs/find capacitance.jpeg" alt="Description" width="600" height="400"/>
-</p>
-To calculate c1=
-
-$$ C_1= \frac {\epsilon_o.A.K}{d} $$
-
-$$=\frac{ 8.85 \times 10^{-12}  \times  100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{1 \times 10^{-6}} =3.4515  \times 10^{-15}$$                            
-
-$$C_2=\frac {\epsilon_o.A.K}{d} $$
-
-$$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{0.1\times 10^{-6}}=34.515 \times 10^{-15} $$
 
 ## Capacitors
 
