@@ -34,4 +34,13 @@
 | Electrolytic  | 1pf - 1uf | 4-630v | Poor | Poor | High | Small,Cheap,Most Popular |
 | Vaccum  | 1pf - 1uf | 4.5v-60kv | Poor | Poor | Small | Small,Cheap,Most Popular |
 
+i
 - **Derivation and Solved Examples**: [PS-day2-practice-problem](https://www.dropbox.com/scl/fi/6uyll0l15llozb4sgpkxv/ps-day2.pdf?rlkey=k1su1o4w2au8t0aoc74dl2kbn&st=l0ibl6e0&dl=0)
+
+
+jjljsdwGDYWBXBSNDE
+
+
+
+
+
