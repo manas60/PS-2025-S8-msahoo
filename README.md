@@ -16,9 +16,50 @@
     - &#9651;R = $&#9651;v \over I_R$ = $\rho$ $&#9651;x \over Wh$
 ## Finding the capacitance between two parallel plate
 
-- consider two parallel metal plates of area 'A' separated by distance 'd' as shown in fig.
+Lets consider 2 parallel plates connected with a battery of "V" volts.After sometimes of battery connection let the plate connected with the cathode of battery has total charge +Q on its surface and 
+the plate connected with the anode of battery has total charge -Q on its surface .\
+Gradually as the charge increases on the plate potential also increases.Let the potential on the plates are V1 and V2 respectively .\
+Relation between total charge on either plate and potential difference between two parallel plates (V= V1-V2) can be mathematically expressed as:
 
-   <img src="docs/find capacitance.jpeg" alt="Diagram" width="400" height="300">
+$$ Q \propto V $$
+ 
+Here the proportionality constant is the capacitance of the parallel plates : 
+
+$$ Q = CV .......................(1)$$  
+ 
+We will apply Gauss's theorem to calculate the capacitance of the parallel plates .\
+Gauss Theorem can mathemticallly expressed as
+
+$$\Phi_E = \oint\limits_S\overrightarrow{E} . \overrightarrow{dS} = \frac{Q _{in}}{\epsilon_o} .........................................(2)$$
+Q can be expressed as :
+
+$$ Q=\overrightarrow{E}.A.\epsilon_o ...................(3) $$
+
+Assuming a large area and small separation "d" between plates , Electric feild between plates can be expressed mathematically 
+
+$$ \overrightarrow{E} = \frac{V}{d}...........................(4)$$
+
+From the equation 1 Capacitance C can be expressed as  : 
+
+$$C= \frac{Q}{V} $$
+
+Therefore putting the values of Q and V from equation 3 and 4 the capacitance of the parallel plates can be expressed as:
+
+ $$ C=\frac{\epsilon_0 \cdot AE}{Ed} = \frac{\epsilon_0 \cdot A}{d} ............................(5)$$
+
+* Calculate  C1  and C2 of the image
+ <p align="center">
+   <img src="docs/find capacitance.jpeg" alt="Description" width="600" height="400"/>
+</p>
+To calculate c1=
+
+$$ C_1= \frac {\epsilon_o.A.K}{d} $$
+
+$$=\frac{ 8.85 \times 10^{-12}  \times  100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{1 \times 10^{-6}} =3.4515  \times 10^{-15}$$                            
+
+$$C_2=\frac {\epsilon_o.A.K}{d} $$
+
+$$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6} \times 3.9}{0.1\times 10^{-6}}=34.515 \times 10^{-15} $$
 
 ## Capacitors
 
@@ -34,13 +75,7 @@
 | Electrolytic  | 1pf - 1uf | 4-630v | Poor | Poor | High | Small,Cheap,Most Popular |
 | Vaccum  | 1pf - 1uf | 4.5v-60kv | Poor | Poor | Small | Small,Cheap,Most Popular |
 
-i
+
 - **Derivation and Solved Examples**: [PS-day2-practice-problem](https://www.dropbox.com/scl/fi/6uyll0l15llozb4sgpkxv/ps-day2.pdf?rlkey=k1su1o4w2au8t0aoc74dl2kbn&st=l0ibl6e0&dl=0)
-
-
-jjljsdwGDYWBXBSNDE
-
-
-
 
 
